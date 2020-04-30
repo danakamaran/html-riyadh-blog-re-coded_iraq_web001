@@ -8,7 +8,6 @@ html, body {
 body {
   background: url(../images/backgrounds/architecture.jpg) center repeat-y;
   background-size: cover;
-  background-attachment: ;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
